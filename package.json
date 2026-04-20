@@ -1,0 +1,10 @@
+{
+  "name": "espresso-newsletter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Espresso Newsletter — Friday shot of politics, finance & memes.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
